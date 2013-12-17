@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ICECAT-interface SYSTEM "http://data.icecat.biz/dtd/ICECAT-interface_response.dtd">
+<!-- source: Icecat.biz 2013 -->
+ <ICECAT-interface>
+     <Response Date="Fri Nov  8 14:39:32 2013" ID="8976592" Request_ID="1383917972" Status="1">
+         <CategoriesList>
+             <Category ID="220" LowPic="http://images.icecat.biz/img/low_pic/220-9632.jpg" Score="45467759" Searchable="0" ThumbPic="http://images.icecat.biz/thumbs/CAT220.jpg" UNCATID="43172400" Visible="0">
+                 <Name ID="441" Value="TVs &amp; projectors" langid="1"/>
+                 <Name ID="471225" Value="monitoren, tv's &amp; projectoren" langid="2"/>
+                 <Name ID="343967" langid="3"/>
+                 <Name ID="436980" Value="Monitore, TV u. Projektoren" langid="4"/>
+                 <ParentCategory ID="1"/>
+             </Category>
+             <Category ID="221" LowPic="http://images.icecat.biz/img/low_pic/221-4277.jpg" Score="87106" Searchable="0" ThumbPic="http://images.icecat.biz/thumbs/CAT221.jpg" UNCATID="43172401" Visible="0">
+                 <Name ID="443" Value="monitors CRT" langid="1"/>
+                 <Name ID="471226" Value="monitoren CRT" langid="2"/>
+                 <Name ID="343968" Value ="" langid="3"/>
+                 <Name ID="436981" Value="CRT Monitore" langid="4"/>
+                 <ParentCategory ID="220">
+                     <Names>
+                         <Name ID="441" langid="1">TVs &amp; projectors</Name>
+                         <Name ID="471225" langid="2">monitoren, tv's &amp; projectoren</Name>
+                         <Name ID="343967" langid="3">moniteurs, téléviseurs &amp; projecteurs</Name>
+                         <Name ID="436980" langid="4">Monitore, TV u. Projektoren</Name>
+                     </Names>
+                 </ParentCategory>
+             </Category>
+         </CategoriesList>
+     </Response>
+ </ICECAT-interface>
